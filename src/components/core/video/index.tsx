@@ -8,7 +8,7 @@ const Video = ({url, className}:{url:string, className?: string}) => {
       playsInline
     >
       <source src={url} type="video/mp4" />
-      Your browser does not support the video tag.
+      Your browser does not support the video tag
     </video>
   );
 };
