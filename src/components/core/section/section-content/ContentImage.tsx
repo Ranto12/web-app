@@ -5,9 +5,9 @@ const ContentImage = () => (
     <Image
       alt="topup"
       src="/images/contents/topup.webp"
-      width={256}
-      height={256}
-      className="w-full max-w-[380px] aspect-square md:w-[380px]"
+      width={380}
+      height={380}
+      className="max-w-[380px] aspect-square md:w-[380px]"
     />
   </div>
 );
