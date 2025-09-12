@@ -6,7 +6,7 @@ const ContentImage = () => (
       alt="topup"
       src="/images/contents/topup.webp"
       width={256}
-      height={256}
+      height={259}
       className="w-full max-w-[380px]"
     />
   </div>
