@@ -19,6 +19,7 @@ const DownloadLinks = () => (
           src="/images/icons/appstore.webp"
           width={124}
           height={100}
+          quality={80}
           className="md:w-[145px] md:h-[42px]"
         />
       </Link>
@@ -34,6 +35,7 @@ const DownloadLinks = () => (
           src="/images/icons/googleplay.webp"
           width={124}
           height={100}
+          quality={80}
           className="md:w-[145px] md:h-[42px]"
         />
       </Link>

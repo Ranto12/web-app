@@ -8,6 +8,7 @@ const LogoBox = () => (
         src="/images/icons/kpoin.webp"
         width={100}
         height={100}
+        quality={80}
         className="w-[65px] h-[37px] md:w-[84px] md:h-[47px]"
       />
     </div>
